@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Typing Animation
     const typingText = document.getElementById('typing-text');
-    const roles = ['Student', 'Aspiring Developer', 'Learner', 'Problem Solver'];
+    const roles = ['Computer Science Student', 'Full-Stack Developer', 'Problem Solver', 'Continuous Learner'];
     let roleIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
